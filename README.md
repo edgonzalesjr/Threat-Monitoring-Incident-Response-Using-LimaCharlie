@@ -26,13 +26,35 @@ To gain practical, hands-on experience in using Lima Charlie, a cloud-based secu
 
 ## Practical Exercises
 
-- Powershell and batch file Detection
+- Powershell Detection
+<p align="center">
+<img src="https://imgur.com/BFkztXM.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>Execution of PowerShell script in the victim's machine.</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/r3VeAnK.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>Connected to Attacker's Command and Control Server.</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/ldWttCu.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>Detected the malicious PowerShell activity.</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/ljP2IJE.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>Malicious PowerShell process viewed.</b>
+<br/>
+
 <p align="center">
 <img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
-<br/>
-<b>.</b>
+<b></b>
 <br/>
 
 - Threat/Adversarial Emulation with AtomicRedTeam
