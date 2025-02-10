@@ -93,7 +93,7 @@ To gain practical, hands-on experience in using Lima Charlie, a cloud-based secu
 <br/>
 <img src="https://imgur.com/uA2GjNL.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<img src="https://imgur.com/ddsZoB4.png" height="90%" width="90%" alt="Device Specification"/>
+<img src="https://imgur.com/Hpwh9Yw.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
 <b>Isolate the victim's machine to the network to avoid further damage.</b>
 <br/>
