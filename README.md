@@ -51,19 +51,44 @@ To gain practical, hands-on experience in using Lima Charlie, a cloud-based secu
 <b>Malicious PowerShell process viewed.</b>
 <br/>
 
+- Malware Detection
 <p align="center">
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<img src="https://imgur.com/Y96Y8lO.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b></b>
+<b>Execution of malicious file in the victim's machine.</b>
 <br/>
 
-- Threat/Adversarial Emulation with AtomicRedTeam
+<p align="center">
+<img src="https://imgur.com/qvTCG03.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>Connected to Attacker's Command and Control Server.</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/bvGe75e.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>Detected the malicious activity.</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/hs6mrKm.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>Malicious .exe file process viewed.</b>
+<br/>
+
+- Adversarial Emulation with AtomicRedTeam
 <p align="center">
 <img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
 <br/>
 <img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
 <br/>
 <b>.</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b></b>
 <br/>
 
 ## Outcome
