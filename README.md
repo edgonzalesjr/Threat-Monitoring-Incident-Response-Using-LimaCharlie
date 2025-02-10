@@ -80,17 +80,34 @@ To gain practical, hands-on experience in using Lima Charlie, a cloud-based secu
 <p align="center">
 <img src="https://imgur.com/jscSVdh.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<img src="https://imgur.com/wSGLFpd.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<img src="https://imgur.com/deewLOZ.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>Detected the malicious activities.</b>
+<b>Selected the Command and Control. Detected the malicious activities.</b>
+<br/>
+
+- Infected Machine Isolation
+<p align="center">
+<img src="https://imgur.com/xVUzax6.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/uA2GjNL.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/ddsZoB4.png" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>Isolate the victim's machine to the network to avoid further damage.</b>
 <br/>
 
 <p align="center">
 <img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b></b>
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<br/>
+<b>Putting back the machine to the network.</b>
 <br/>
 
 ## Outcome
