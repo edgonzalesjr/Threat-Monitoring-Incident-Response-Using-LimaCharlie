@@ -78,11 +78,13 @@ To gain practical, hands-on experience in using Lima Charlie, a cloud-based secu
 
 - Adversarial Emulation with AtomicRedTeam
 <p align="center">
-<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<img src="https://imgur.com/jscSVdh.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
 <img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>.</b>
+<img src="https://imgur.com/" height="90%" width="90%" alt="Device Specification"/>
+<br/>
+<b>Detected the malicious activities.</b>
 <br/>
 
 <p align="center">
