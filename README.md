@@ -6,7 +6,7 @@ To gain practical experience with Lima Charlie, a cloud-based security platform,
   - Collecting, ingesting, and analyzing telemetry data from a single source.  
   - Leveraging real-time feeds and timelines for proactive monitoring and decision-making.
 - Incident Response
-  - Deploying agents for telemetry collection.
+  - Deploying agent for telemetry collection.
   - Responding to security incidents with minimal setup, ensuring quick deployment.
   - Isolating and quarantining compromised system to prevent further breaches.
 - Real-Time Security Operations
@@ -105,7 +105,7 @@ To gain practical experience with Lima Charlie, a cloud-based security platform,
 
 ## Outcome
 - Enhanced Incident Response
-   - Proficiency in deploying and managing agents for quick, effective responses during security incidents.
+   - Proficiency in deploying and managing agent for quick, effective responses during security incidents.
    - Ability to quickly isolate and quarantine compromised system to contain potential threats.  
 - Improved Security Posture
    - Developed an understanding of detection rules based on the unique threat landscape of an organization.
