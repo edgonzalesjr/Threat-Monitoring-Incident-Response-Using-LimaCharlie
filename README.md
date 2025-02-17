@@ -1,5 +1,5 @@
 ## Objective
-To gain practical experience with Lima Charlie, a cloud-based security platform, in managing security operations, improving incident response, and enhancing the organization’s security in real time.
+To gain practical experience with LimaCharlie, a cloud-based security platform, in managing security operations, improving incident response, and enhancing the organization’s security in real time.
 
 ### Skills Learned
 - Telemetry Management and Data Analysis
