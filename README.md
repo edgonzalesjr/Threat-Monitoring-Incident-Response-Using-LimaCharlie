@@ -17,7 +17,8 @@ To gain practical, hands-on experience in using Lima Charlie, a cloud-based secu
   - Using Lima Charlie’s interface to manage incidents, track events, and execute containment procedures quickly.
 
 ### Tools Used
-- Lima Charlie Platform: A cloud-based EDR platform for real-time endpoint monitoring, threat detection, and response.
+- Lima Charlie: A cloud-based EDR platform for real-time endpoint monitoring, threat detection, and response.
+- AtomicRedTeam: 
 - Kali Linux: Act as the Threat Actor's Command and Control Server.
 - Windows 10 Eval: End-user machine.
 
