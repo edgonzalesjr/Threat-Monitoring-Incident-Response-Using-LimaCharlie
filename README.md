@@ -54,7 +54,7 @@ To gain practical experience with LimaCharlie, a cloud-based security platform, 
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/qvTCG03.png" height="90%" width="90%" alt="Device Specification"/>
+<img src="https://imgur.com/Vg8oRY9.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
 <b>Connected to Attacker's Command and Control Server.</b>
 <br/>
@@ -94,7 +94,7 @@ To gain practical experience with LimaCharlie, a cloud-based security platform, 
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/kk8mCIL.png" height="90%" width="90%" alt="Device Specification"/>
+<img src="https://imgur.com/BVGZE2M.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
 <img src="https://imgur.com/Os1xDfz.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
