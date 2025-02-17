@@ -101,7 +101,6 @@ To gain practical, hands-on experience in using Lima Charlie, a cloud-based secu
 <br/>
 <img src="https://imgur.com/F7qw65j.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<br/>
 <b>Putting back the machine to the network.</b>
 <br/>
 
