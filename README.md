@@ -23,7 +23,7 @@ To gain practical experience with Lima Charlie, a cloud-based security platform,
 
 - Powershell Detection
 <p align="center">
-<img src="https://imgur.com/BFkztXM.png" height="90%" width="90%" alt="Device Specification"/>
+<img src="https://imgur.com/TfV9VQe.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
 <b>Execution of PowerShell script in the victim's machine.</b>
 <br/>
