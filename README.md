@@ -9,9 +9,7 @@ To gain practical, hands-on experience in using Lima Charlie, a cloud-based secu
 - Incident Response
   - Deploying sleeper agents for rapid telemetry collection.
   - Responding to security incidents with minimal setup, ensuring quick deployment.
-  - Isolating and quarantining compromised systems to prevent further breaches.  
-- Security Tool Integration
-  - Integrating Lima Charlie with third-party tools (e.g., VirusTotal) for enhanced functionality.   
+  - Isolating and quarantining compromised systems to prevent further breaches.
 - Real-Time Security Operations
   - Monitoring security incidents in real-time for faster response and mitigation.
   - Using Lima Charlie’s interface to manage incidents, track events, and execute containment procedures quickly.
@@ -113,9 +111,7 @@ To gain practical, hands-on experience in using Lima Charlie, a cloud-based secu
    - Ability to quickly isolate and quarantine compromised systems to contain potential threats.  
 - Improved Security Posture
    - Developed a keen understanding of customizing detection rules based on the unique threat landscape of an organization.
-   - Ability to centralize and analyze data across multiple sources for better event correlation and faster threat mitigation.    
-- Hands-On Security Integration
-   - Acquired skills in integrating Lima Charlie with other cybersecurity tools, improving overall security operations through seamless workflows.
+   - Ability to centralize and analyze data across multiple sources for better event correlation and faster threat mitigation.
 - Real-Time Monitoring and Decision-Making
    - Ability to make informed, timely decisions based on real-time security incident data.
    - Enhanced capability to manage and respond to security incidents quickly and effectively, reducing potential damage to the network.
@@ -124,6 +120,7 @@ To gain practical, hands-on experience in using Lima Charlie, a cloud-based secu
 This project combines ideas and methods from various sources, such as the Cybersecurity Tool: LimaCharlie by MyDFIR and my IT experience. These resources provided the fundamental information and techniques, which were then modified in light of practical uses.
  - [MyDFIR](https://www.youtube.com/watch?v=LbXiQnukb6Q)
  - [LimaCharlie](https://app.limacharlie.io)
+ - [Atomic Red Team](https://www.atomicredteam.io/)
  - [Kali Linux](https://www.kali.org/)
  - [Windows 10 Eval](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-10-enterprise)
 
