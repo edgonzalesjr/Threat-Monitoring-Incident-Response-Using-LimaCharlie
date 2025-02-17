@@ -17,12 +17,9 @@ To gain practical, hands-on experience in using Lima Charlie, a cloud-based secu
   - Using Lima Charlie’s interface to manage incidents, track events, and execute containment procedures quickly.
 
 ### Tools Used
-- Lima Charlie Platform:
-  - Sleeper agents for telemetry collection.
-  - User interface for managing security operations and sensors.
-  - Real-time feeds and timelines for ongoing event monitoring.
-- Third-Party Integrations:
-  - VirusTotal for virus/malware analysis.
+- Lima Charlie Platform: A cloud-based EDR platform for real-time endpoint monitoring, threat detection, and response.
+- Kali Linux: Act as the Threat Actor's Command and Control Server.
+- Windows 10 Eval: End-user machine.
 
 ## Practical Exercises
 
@@ -123,9 +120,11 @@ To gain practical, hands-on experience in using Lima Charlie, a cloud-based secu
    - Enhanced capability to manage and respond to security incidents quickly and effectively, reducing potential damage to the network.
 
 ## Acknowledgements
-This project combines ideas and methods from various sources, such as the TryHackMe SOC Simulator Phishing Unfolding room and my IT experience. These resources provided the fundamental information and techniques, which were then modified in light of practical uses.
- - [](https://)
+This project combines ideas and methods from various sources, such as the Cybersecurity Tool: LimaCharlie by MyDFIR and my IT experience. These resources provided the fundamental information and techniques, which were then modified in light of practical uses.
+ - [MyDFIR](https://www.youtube.com/watch?v=LbXiQnukb6Q)
  - [LimaCharlie](https://app.limacharlie.io)
+ - [Kali Linux](https://www.kali.org/)
+ - [Windows 10 Eval](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-10-enterprise)
 
 ## Disclaimer
 The sole goals of the projects and activities here are for education and ethical cybersecurity research. All work was conducted in controlled environments, such as paid cloud spaces, private labs, and online cybersecurity education platforms. Online learning and cloud tasks adhered closely to all usage guidelines. Never use these projects for improper or unlawful purposes. It is always prohibited to break into any computer system or network. Any misuse of the provided information or code is not the responsibility of the author or authors.
