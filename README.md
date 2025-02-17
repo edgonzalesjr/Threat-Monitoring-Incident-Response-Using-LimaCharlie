@@ -11,10 +11,10 @@ To gain practical experience with LimaCharlie, a cloud-based security platform, 
   - Isolating and quarantining compromised system to prevent further breaches.
 - Real-Time Security Operations
   - Monitoring security incidents in real-time for faster response and mitigation.
-  - Using Lima Charlie’s interface to manage incidents, track events, and execute containment procedures quickly.
+  - Using LimaCharlie’s interface to manage incidents, track events, and execute containment procedures quickly.
 
 ### Tools Used
-- Lima Charlie: A cloud-based EDR platform for real-time endpoint monitoring, threat detection, and response.
+- LimaCharlie: A cloud-based EDR platform for real-time endpoint monitoring, threat detection, and response.
 - AtomicRedTeam: Telemetry generation tool to create realistic network traffic and attack scenarios.
 - Kali Linux: Act as the Threat Actor's Command and Control Server.
 - Windows 10 Eval: End-user machine.
