@@ -29,7 +29,7 @@ To gain practical experience with Lima Charlie, a cloud-based security platform,
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/r3VeAnK.png" height="90%" width="90%" alt="Device Specification"/>
+<img src="https://imgur.com/x0lH7Q3.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
 <b>Connected to Attacker's Command and Control Server.</b>
 <br/>
