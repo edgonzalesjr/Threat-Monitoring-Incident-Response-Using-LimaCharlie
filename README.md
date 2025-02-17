@@ -3,13 +3,12 @@ To gain practical, hands-on experience in using Lima Charlie, a cloud-based secu
 
 ### Skills Learned
 - Telemetry Management and Data Analysis
-  - Collecting, ingesting, and analyzing telemetry data from multiple sources.
-  - Centralizing data to correlate security events across a wide range of assets.
+  - Collecting, ingesting, and analyzing telemetry data from a single source.  
   - Leveraging real-time feeds and timelines for proactive monitoring and decision-making.
 - Incident Response
-  - Deploying sleeper agents for rapid telemetry collection.
+  - Deploying agents for telemetry collection.
   - Responding to security incidents with minimal setup, ensuring quick deployment.
-  - Isolating and quarantining compromised systems to prevent further breaches.
+  - Isolating and quarantining compromised system to prevent further breaches.
 - Real-Time Security Operations
   - Monitoring security incidents in real-time for faster response and mitigation.
   - Using Lima Charlie’s interface to manage incidents, track events, and execute containment procedures quickly.
@@ -106,12 +105,12 @@ To gain practical, hands-on experience in using Lima Charlie, a cloud-based secu
 
 ## Outcome
 - Enhanced Incident Response
-   - Proficiency in deploying and managing sleeper agents for quick, effective responses during security incidents.
-   - Ability to quickly isolate and quarantine compromised systems to contain potential threats.  
+   - Proficiency in deploying and managing agents for quick, effective responses during security incidents.
+   - Ability to quickly isolate and quarantine compromised system to contain potential threats.  
 - Improved Security Posture
-   - Developed a keen understanding of customizing detection rules based on the unique threat landscape of an organization.
-   - Ability to centralize and analyze data across multiple sources for better event correlation and faster threat mitigation.
-- Real-Time Monitoring and Decision-Making
+   - Developed an understanding of detection rules based on the unique threat landscape of an organization.
+   - Ability to centralize and analyze data from a single source for better event correlation and faster threat mitigation.
+- Real-Time Monitoring
    - Ability to make informed, timely decisions based on real-time security incident data.
    - Enhanced capability to manage and respond to security incidents quickly and effectively, reducing potential damage to the network.
 
